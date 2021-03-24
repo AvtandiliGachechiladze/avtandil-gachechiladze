@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="avtandil-gachechiladze:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>avtandil-gachechiladze</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="avtandil-gachechiladze-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="avtandil-gachechiladze:war exploded" />
+    </root>
+  </artifact>
+</component>
